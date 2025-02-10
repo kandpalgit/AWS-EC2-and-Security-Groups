@@ -1,5 +1,15 @@
 # AWS-EC2-and-Security-Groups
 
+Hello everyone today I’ll share some interesting points related to cloud and security groups.
+
+Types of cloud 
+
+1 Aws - Amazon web service 
+
+2 Azure - As a Microsoft cloud service
+
+3 Gcp -  Google Cloud service
+
 1 Aws - It looks like you're interested in AWS Cloud! AWS (Amazon Web Services) is a comprehensive and widely used cloud computing platform offered by Amazon. It provides a variety of services like computing power, storage options, databases, machine learning, analytics, networking, and much more. amazon web services provide 190+ services in the cloud.
 
 Ec 2 :
